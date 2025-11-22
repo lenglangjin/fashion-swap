@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Swap",
+  "description": "智能AI换装应用 - 上传人物与服饰，一键生成试穿效果 (AI Virtual Try-On)",
+  "requestFramePermissions": []
+}
